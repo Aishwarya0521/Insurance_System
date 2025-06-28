@@ -72,7 +72,6 @@ Enter policy name: HealthPlus
 Enter policy type: Health
 Enter premium: Monthly
 
-
 ---
 
 ## 🛠️ Future Enhancements
