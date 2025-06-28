@@ -16,8 +16,6 @@ A console-based Insurance Management System built in **Java** using **JDBC** and
 
 ---
 
----
-
 ## 📦 Entity Classes
 
 - **User** → userId, username, password, role
@@ -25,8 +23,6 @@ A console-based Insurance Management System built in **Java** using **JDBC** and
 - **Client** → clientId, clientName, contactInfo, policyId
 - **Claim** → claimId, clientId, claimNumber, dateFiled, claimAmount, status, policyId
 - **Payment** → paymentId, clientId, paymentDate, paymentAmount
-
----
 
 ---
 
@@ -53,6 +49,7 @@ Make sure this matches your actual MySQL setup.
 2. Set up your MySQL database as shown above.
 3. Run `MainModule.java`.
 
+---
 
 ## 🧪 Sample Input (Policy Creation)
 
@@ -74,7 +71,7 @@ Enter policyId: 1
 Enter policy name: HealthPlus
 Enter policy type: Health
 Enter premium: Monthly
-```
+
 
 ---
 
